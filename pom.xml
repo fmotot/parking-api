@@ -211,7 +211,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
 				<groupId>
 					org.springframework.boot
 				</groupId>
@@ -223,7 +223,7 @@
 						exec
 					</classifier>
 				</configuration>
-			</plugin>
+			</plugin> -->
 		</plugins>
 	</build>
 </project>
