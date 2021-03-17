@@ -86,7 +86,7 @@
 					</classifier>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
 				<groupId>
 					org.jacoco
 				</groupId>
@@ -215,7 +215,7 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin> -->
 		</plugins>
 	</build>
 </project>
